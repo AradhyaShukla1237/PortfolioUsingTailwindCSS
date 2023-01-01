@@ -14,23 +14,14 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-20">
-          Lorem ipsum dolor, sit amet consectetur adipisicing elit. Eius,
-          deserunt illum mollitia officiis qui exercitationem perferendis neque
-          quasi a recusandae necessitatibus tempora iusto! Blanditiis error
-          iste, totam fugiat recusandae rerum laborum perferendis molestiae
-          aperiam asperiores nemo. Magni dolor maxime debitis vitae, eaque hic
-          ab mollitia voluptatibus, a nostrum eveniet laborum!
+          Hey there ! I am Aradhya Shukla the head of Coding Era and I promise you all to give fulfill results for subscribing me I provides you tech based videos every week and coding projects , and many more ¦ So, please subscribe it will support me a lot. 
         </p>
 
         <br />
 
         <p className="text-xl">
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laborum
-          pariatur, vel similique sint, nobis aspernatur ut praesentium
-          explicabo ipsam aliquid quasi laboriosam et culpa possimus repudiandae
-          quisquam ullam maiores ab unde. Fugiat odio mollitia nemo alias.
-          Commodi facilis atque nulla vero voluptatem explicabo. Quibusdam,
-          magni quo! Eum cupiditate debitis labore.
+          I'm a front-end developer with 2 years of experience in coding and I think I'm one of the youngest coders in the world cause I'm just 13 years old now and when I have started I'm Just 11 years old. I know HTML, CSS , TAILWIND CSS, BOOTSTRAP, JAVASCRIPT, REACT JS, NODE JS and GITHUB
+          I have total maded 12 websites and 4 apps but in my portfolio u will only see 4-5 websites/apps cause they are my not so best but good enough to show you.
         </p>
       </div>
     </div>
