@@ -9,23 +9,13 @@ const SocialLinks = () => {
       id: 1,
       child: (
         <>
-          LinkedIn <FaLinkedin size={30} />
-        </>
-      ),
-      href: "https://linkedin.com",
-      style: "rounded-tr-md",
-    },
-    {
-      id: 2,
-      child: (
-        <>
           GitHub <FaGithub size={30} />
         </>
       ),
       href: "https://github.com/AradhyaShukla1237",
     },
     {
-      id: 3,
+      id: 2,
       child: (
         <>
           Mail <HiOutlineMail size={30} />
